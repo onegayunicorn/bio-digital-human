@@ -1,0 +1,30 @@
+# Component definition for the OMNIROOT main component.
+idf_component_register(
+    SRCS
+        "main.c"
+        "protocol.c"
+        "crc16.c"
+        "sensors.c"
+        "ble_service.c"
+    INCLUDE_DIRS
+        "."
+        "../include"
+    REQUIRES
+        driver
+        esp_timer
+        esp_system
+        nvs_flash
+        bt
+)
+
+# Fail the build on the warning classes that correspond to undefined behaviour.
+target_compile_options(${COMPONENT_LIB} PRIVATE
+    -Wall -Wextra
+    -Werror=return-type
+    -Werror=implicit-function-declaration
+    -Werror=incompatible-pointer-types
+)
+
+# The frame layout is a wire contract shared with the host parser. A size change
+# must break the build, not silently desynchronise both ends.
+target_compile_definitions(${COMPONENT_LIB} PRIVATE HDI_FRAME_SIZE_EXPECTED=34)

@@ -1,0 +1,5 @@
+{
+  "count": 24,
+  "contact_sheet": "/home/ubuntu/work_bio_digital/contact_sheet.jpg",
+  "ocr_dir": "/home/ubuntu/work_bio_digital/ocr"
+}

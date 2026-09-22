@@ -1,0 +1,14 @@
+{
+  "name": "NeuroScan Interface",
+  "short_name": "NeuroScan",
+  "description": "Non-clinical local-first telemetry dashboard.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020a14",
+  "theme_color": "#020a14",
+  "orientation": "any",
+  "scope": "/",
+  "icons": [
+    { "src": "/neuroscan-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

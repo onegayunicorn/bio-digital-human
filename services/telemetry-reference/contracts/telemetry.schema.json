@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sovereign.local/schemas/telemetry.v1.json",
+  "title": "Bio-Digital Telemetry Envelope v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "message_id", "device_id", "firmware_version", "sequence", "captured_at", "status", "readings"],
+  "properties": {
+    "schema_version": {"const": "telemetry.v1"},
+    "message_id": {"type": "string", "format": "uuid"},
+    "device_id": {"type": "string", "pattern": "^[a-zA-Z0-9._-]{1,64}$"},
+    "firmware_version": {"type": "string", "minLength": 1, "maxLength": 128},
+    "sequence": {"type": "integer", "minimum": 0},
+    "captured_at": {"type": "string", "format": "date-time"},
+    "status": {"enum": ["LIVE", "CALIBRATED", "SIMULATED", "PROTOTYPE"]},
+    "readings": {
+      "type": "array", "minItems": 1, "maxItems": 64,
+      "items": {
+        "type": "object", "additionalProperties": false,
+        "required": ["channel_id", "value", "unit", "precision", "uncertainty"],
+        "properties": {
+          "channel_id": {"type": "string", "pattern": "^[a-z0-9_.-]{1,80}$"},
+          "value": {"type": "number", "finite": true},
+          "unit": {"type": "string", "minLength": 1, "maxLength": 32},
+          "precision": {"type": "integer", "minimum": 0, "maximum": 12},
+          "uncertainty": {"type": "number", "minimum": 0},
+          "quality": {"type": "number", "minimum": 0, "maximum": 1}
+        }
+      }
+    },
+    "evidence_seal": {
+      "type": "object", "additionalProperties": false,
+      "required": ["algorithm", "hash"],
+      "properties": {
+        "algorithm": {"const": "SHA3-256"},
+        "canonicalization": {"const": "JCS-like-sorted-json"},
+        "hash": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+      }
+    }
+  }
+}

@@ -1,0 +1,1165 @@
+{
+  "source_archive": "/home/ubuntu/upload/bio-digital.zip",
+  "files_copied": 193,
+  "files_omitted_as_exact_duplicates": 23,
+  "provenance": [
+    {
+      "source": "workspace-19/.prettierrc",
+      "destination": "apps/web/.prettierrc",
+      "sha256": "d5f90f76c5b68ce7be5ba077813f97e1983511b8c314764537345a538c1261f4",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/AGENTS.md",
+      "destination": "apps/web/AGENTS.md",
+      "sha256": "09f7b09f35660596cc4c22612a7893b0dea41e28c187168076b9c59302d0f610",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/eslint.config.mjs",
+      "destination": "apps/web/eslint.config.mjs",
+      "sha256": "9c79df07c33ff6aa13876bdd1e7e6652aa1ecb377c7b7f029f7915d215ee4488",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/migrations/auth/0001_auth.sql",
+      "destination": "apps/web/migrations/auth/0001_auth.sql",
+      "sha256": "f953cacc448c0c81ae4fe63e66b0e59569e840782ad279fdee201dff529363e9",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/package-lock.json",
+      "destination": "apps/web/package-lock.json",
+      "sha256": "fc81314ce9ca4b6be0300e35a223455005daf314253a131134bf089a5b2ba4af",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/package.json",
+      "destination": "apps/web/package.json",
+      "sha256": "1c8c970bdc9a22c70d8692e641b1e4fe95ab733708c460fb248edd3531f7805d",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/public/__grok/icon-180.png",
+      "destination": "apps/web/public/__grok/icon-180.png",
+      "sha256": "3cf5d17d294b51c6cca6c86070309b88554b7ad702b0412e8e2709a01990bc8a",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/public/__grok/install/assets/homescreen/glass-puzzle.svg",
+      "destination": "apps/web/public/__grok/install/assets/homescreen/glass-puzzle.svg",
+      "sha256": "a677c9356c23d1e699559ddbffac97cd135c2782cd893fb34f3738f6d11bee17",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/public/__grok/install/assets/homescreen/glass-share.svg",
+      "destination": "apps/web/public/__grok/install/assets/homescreen/glass-share.svg",
+      "sha256": "efad1b4b507a68c1f1af4aad2c93e8c24076224aa593da86677697f543d026d6",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/public/__grok/install/assets/homescreen/logo-grok.svg",
+      "destination": "apps/web/public/__grok/install/assets/homescreen/logo-grok.svg",
+      "sha256": "0654e3e59cce69856f38525cbfe4ab3a9ef52d4b64c8532dd0bc1a3f34fcb5b1",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/public/__grok/install/assets/homescreen/ob-ipad.png",
+      "destination": "apps/web/public/__grok/install/assets/homescreen/ob-ipad.png",
+      "sha256": "4c9b09a4660c662b394597d551a04124293b0e37a7a7c72271dd2948c4499a14",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/public/__grok/install/assets/homescreen/ob-phone.png",
+      "destination": "apps/web/public/__grok/install/assets/homescreen/ob-phone.png",
+      "sha256": "80e0a5ede614d9b920c67d7cb79c80a79134687b1fc9f560384e896a88e302db",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/public/__grok/install/assets/homescreen/plus.svg",
+      "destination": "apps/web/public/__grok/install/assets/homescreen/plus.svg",
+      "sha256": "c2c94be46aa2c3c2fda95d7c6f2fc6d0b656d1f5847828d5d95b5a81a6f4f20d",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/public/__grok/install/styles.css",
+      "destination": "apps/web/public/__grok/install/styles.css",
+      "sha256": "7e8e881302f58e54a9c07e7be395692d3de20fdaa27ce358531cc8dcca472cb6",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/screenshots/.gitkeep",
+      "destination": "apps/web/screenshots/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/app-env-plugin.mjs",
+      "destination": "apps/web/scripts/app-env-plugin.mjs",
+      "sha256": "92962d2361a98413c0cef80b31266d49b063cf4ecf6421bb99f57f6eef4ed7b6",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/brand-check.mjs",
+      "destination": "apps/web/scripts/brand-check.mjs",
+      "sha256": "318f33ce7b29b55c386cc8847084068777880f795a5082043229bb06686be035",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/brand-check.test.mjs",
+      "destination": "apps/web/scripts/brand-check.test.mjs",
+      "sha256": "3dada9e907cf63d4127588268f38987e72108639e65a2694aebf4ee35aa9f309",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/browser-guard.mjs",
+      "destination": "apps/web/scripts/browser-guard.mjs",
+      "sha256": "c6fb865defe5a37bd94e3805b00311d4e8267daf92812e39f62b1213d947265e",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/browser-smoke-verdict.mjs",
+      "destination": "apps/web/scripts/browser-smoke-verdict.mjs",
+      "sha256": "5699614f7fa62515e25ba9cca6397db2770cf6feb9b973f3c19f2915874c53de",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/browser-smoke-verdict.test.mjs",
+      "destination": "apps/web/scripts/browser-smoke-verdict.test.mjs",
+      "sha256": "48b3924b41d606f94a9b8faae47ff350b84978fdd5ab3f6ca01640ed4c7087d7",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/browser-smoke.mjs",
+      "destination": "apps/web/scripts/browser-smoke.mjs",
+      "sha256": "2e1cc3136f33bd74b73b4b3dba812e74ac299c24893b9a7c406e9bbeaf46571f",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/check-auth-invariant.mjs",
+      "destination": "apps/web/scripts/check-auth-invariant.mjs",
+      "sha256": "d712203c4bc92c197c342e5c91660fc5a141a31171f22f35c505a0bff45f98ee",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/check-auth-invariant.test.mjs",
+      "destination": "apps/web/scripts/check-auth-invariant.test.mjs",
+      "sha256": "75a58f44dffb2fc77eb47473638646f607dba26a68a6900156031c7b6227cf3c",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/grok-pwa-plugin.mjs",
+      "destination": "apps/web/scripts/grok-pwa-plugin.mjs",
+      "sha256": "36331d0bc0664debb5068bd6869d3089dc41555b7770c9ccb577d8845958835c",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/grok-pwa-plugin.test.mjs",
+      "destination": "apps/web/scripts/grok-pwa-plugin.test.mjs",
+      "sha256": "f9e4ff314b6c10cad3303d391d606ec14c9d511a77fb23a1fad04a09044fb7b5",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/grok-pwa-shared.d.mts",
+      "destination": "apps/web/scripts/grok-pwa-shared.d.mts",
+      "sha256": "99c8342319978d71ef3dea4989c05ecbf096946c39a255fa08f48b081a3e506b",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/grok-pwa-shared.mjs",
+      "destination": "apps/web/scripts/grok-pwa-shared.mjs",
+      "sha256": "860da7df5e0e5698ccc0ed9def2eb981c2f396831c5523368d031ec740b88b9c",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/install-page.html",
+      "destination": "apps/web/scripts/install-page.html",
+      "sha256": "5f8fe91f837db8d74d68db5e057948918bd9299e097700e0bd18f1cf5f94e586",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/migrate.mjs",
+      "destination": "apps/web/scripts/migrate.mjs",
+      "sha256": "e1a31c8046a099df37b4bcbcafa4f4f7d7d18b1f1f0dc6d79676d41c4be976be",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/migration-plan.mjs",
+      "destination": "apps/web/scripts/migration-plan.mjs",
+      "sha256": "9305d8cfe8cdad73671065d675c89d0f20075d18c756f9aba5043b72e7c19a0d",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/migration-plan.test.mjs",
+      "destination": "apps/web/scripts/migration-plan.test.mjs",
+      "sha256": "9787b5f5f1a7057db94f0a5a8c89abf6ec569fd22d26f99be1c248a2a9f0c082",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/preview-thumbnail.mjs",
+      "destination": "apps/web/scripts/preview-thumbnail.mjs",
+      "sha256": "fd7263a1dd76f788c2b51e9381e1f1de1a58993fd94e01040285556cd38c0c40",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/preview.mjs",
+      "destination": "apps/web/scripts/preview.mjs",
+      "sha256": "b366b1c28844cda81d21e36a88af5f548bdec6a5a4b3000aac12be3ec99cf605",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/preview.test.mjs",
+      "destination": "apps/web/scripts/preview.test.mjs",
+      "sha256": "0105fe41d056ecc22c586a191a9cbd7d0e838b7c878d6993c8c9573c7ea708b1",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/sign-out-plan.mjs",
+      "destination": "apps/web/scripts/sign-out-plan.mjs",
+      "sha256": "32ae072de23b5138bf849c344caf72ab2dab6cb4617ab9915db4e4f5b9c7e2f0",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/sign-out-plan.test.mjs",
+      "destination": "apps/web/scripts/sign-out-plan.test.mjs",
+      "sha256": "1942e32f4b6a9d8b62733338b0f0e1a7d84ed278b4e6c4f24fa7616a3abc694e",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/with-app-env.mjs",
+      "destination": "apps/web/scripts/with-app-env.mjs",
+      "sha256": "a846b68bd3645299c23eef965d9ef226df3a500d345d7576c23f7a2b2ff643c7",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/with-app-env.test.mjs",
+      "destination": "apps/web/scripts/with-app-env.test.mjs",
+      "sha256": "384ea7d0d20f980f733ee38d8f48b0bedd8a4ad39c80ca4792b9aeebcb275851",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/write-atomic.mjs",
+      "destination": "apps/web/scripts/write-atomic.mjs",
+      "sha256": "650b62e8aa38697e1b931049025afe3aac829e6761a8aadf428712faef8b1544",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/scripts/write-atomic.test.mjs",
+      "destination": "apps/web/scripts/write-atomic.test.mjs",
+      "sha256": "e266ac99149651c368715317820934f0e8942db0fc763725ca4a096bf169ad3b",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/server/middleware/grok-pwa.ts",
+      "destination": "apps/web/server/middleware/grok-pwa.ts",
+      "sha256": "340f1fed44355a61fefdaf29a752c524ac029afb00bea3f40cc996cdb289d2f8",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/server/virtual-grok-og-identity.d.ts",
+      "destination": "apps/web/server/virtual-grok-og-identity.d.ts",
+      "sha256": "74847f2b2bade154ac07dabb239c4718a745c095df530e78b8f1ef9f053edfa2",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/components/preview-host-bridge.tsx",
+      "destination": "apps/web/src/components/preview-host-bridge.tsx",
+      "sha256": "e4277e80ce127e7305057fb280d03d0703c5c7115b17d2e2aecf000e4867555e",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/app-data.test.ts",
+      "destination": "apps/web/src/lib/app-data/app-data.test.ts",
+      "sha256": "ec0c40fdaafb4e3d551086de9f9b4a745da7c252f7fbbc5c51a8b1b0a541391e",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/client.server.ts",
+      "destination": "apps/web/src/lib/app-data/client.server.ts",
+      "sha256": "ab544af8b5b96e16248fdcf7ce634c132ccd3659c33cf0daa22f6e74ef5a5da0",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/errors.ts",
+      "destination": "apps/web/src/lib/app-data/errors.ts",
+      "sha256": "8e0dd8d761b2a5a1cafcb7523e2063151f0b6677837b19c3f6d494af148f3889",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/index.ts",
+      "destination": "apps/web/src/lib/app-data/index.ts",
+      "sha256": "72cf57dc1a863f9693d34c11772ba4bae790cc17d9efb1e8619b8a2e6247a7fa",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/login.ts",
+      "destination": "apps/web/src/lib/app-data/login.ts",
+      "sha256": "fbc723841bb67148dd9de12ed614ba6c095d799a533309857cc4d202d6be5ad9",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/readiness-schedule.test.ts",
+      "destination": "apps/web/src/lib/app-data/readiness-schedule.test.ts",
+      "sha256": "97c87401c474b9f87f2e21152fb377744f353736848f0044466ba2e260b06745",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/readiness-schedule.ts",
+      "destination": "apps/web/src/lib/app-data/readiness-schedule.ts",
+      "sha256": "3ea7f192220446b08747f3ef76c7d2fe150356470621f2220738b23e7976f683",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/readiness.ts",
+      "destination": "apps/web/src/lib/app-data/readiness.ts",
+      "sha256": "377786c1cf739eb9dc7c8b2bdcd09991686a700375a67a0c6e73b4334d394da1",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/server-only.ts",
+      "destination": "apps/web/src/lib/app-data/server-only.ts",
+      "sha256": "82821474088face6b9fcadad49793629e5f07a16386402b816262a1c070a3210",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/types.ts",
+      "destination": "apps/web/src/lib/app-data/types.ts",
+      "sha256": "65f3c7566db12661ee9d3633eaae66a85505e00f57a61c258fa72bd22881489f",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/app-data/use-connector-readiness.ts",
+      "destination": "apps/web/src/lib/app-data/use-connector-readiness.ts",
+      "sha256": "57e6d2b3709be83ac2eed9c42eaa822a067fb5aa44a6098c982892c43f3a4f2f",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/client.ts",
+      "destination": "apps/web/src/lib/auth/client.ts",
+      "sha256": "4bca649afb627b11231a7b31acfcffe9323efddebc05944b2d769d2b8589294f",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/email-password.ts",
+      "destination": "apps/web/src/lib/auth/email-password.ts",
+      "sha256": "9b1da7c786e48adfa9a6f7c485bcf5817cf2075a601d8726a965f11171910354",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/gate-identity.server.ts",
+      "destination": "apps/web/src/lib/auth/gate-identity.server.ts",
+      "sha256": "96546b8b6910a01163c36c34a0d417d803bec222b93304be764d810838764159",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/gate-identity.test.ts",
+      "destination": "apps/web/src/lib/auth/gate-identity.test.ts",
+      "sha256": "21202fb2b56ffd10cb9b5bb7d9f305be88cce3902b858f73cea914df05ce2652",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/gate-session-marker.ts",
+      "destination": "apps/web/src/lib/auth/gate-session-marker.ts",
+      "sha256": "3dbf8cb789b0288f9d5c53b1515a3e87d265fcb22e11fe28dc3289c4bd7c06eb",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/gate-session.server.ts",
+      "destination": "apps/web/src/lib/auth/gate-session.server.ts",
+      "sha256": "68aa500523ca2f0ad5c7ba34372c10aa1851a9774f8567c6b7781af5dd6cf204",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/gates.tsx",
+      "destination": "apps/web/src/lib/auth/gates.tsx",
+      "sha256": "39950c211bd4ad4f7129082bf5a43a42ff23975e681b99fd7cfbce372f83a5be",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/isolation.server.ts",
+      "destination": "apps/web/src/lib/auth/isolation.server.ts",
+      "sha256": "a4adf6a5d548e70a0be52d7efdc7433126028908072b47bf9f92135d9ee558a0",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/middleware.ts",
+      "destination": "apps/web/src/lib/auth/middleware.ts",
+      "sha256": "8dc37c4e9bd583f175402330d0952ef4d584c7410723cc2649c4046d5084bd80",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/pglite-dialect.ts",
+      "destination": "apps/web/src/lib/auth/pglite-dialect.ts",
+      "sha256": "bd66925574245cd47cdd98b5c068dd7b4ee4a51c9439e8421dc54c62fe7c4f50",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/popup.server.ts",
+      "destination": "apps/web/src/lib/auth/popup.server.ts",
+      "sha256": "81f8833d9ab639f76b86f4bb23fed42a04cec4b0c6d90b7a67425a9232c9bb4a",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/preview.ts",
+      "destination": "apps/web/src/lib/auth/preview.ts",
+      "sha256": "d52a3654a5cef7e841cbca789fd106dc464ea55db574f02aa5d295b7350f8664",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/provider.tsx",
+      "destination": "apps/web/src/lib/auth/provider.tsx",
+      "sha256": "4cbbc7f8cc1765788ad65455a33f64dcdafc6fe4ed1d13f90ccfa0ba4c13d1f3",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/providers.ts",
+      "destination": "apps/web/src/lib/auth/providers.ts",
+      "sha256": "4acefac17931529bdeab053588a917b06e44abdb67a275a2ca1c7841080c6a78",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/server.ts",
+      "destination": "apps/web/src/lib/auth/server.ts",
+      "sha256": "e0544cadbfa1a09c3cb4cf2a0ec187dbbb2831aebf7de887a3c858abdd72ca43",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/sign-in-gate.test.ts",
+      "destination": "apps/web/src/lib/auth/sign-in-gate.test.ts",
+      "sha256": "2c352588cb6a8f58faf3aecc1d1f418ae827ddbb6a5eca8e56668ec72cd328d2",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/sign-in-gate.ts",
+      "destination": "apps/web/src/lib/auth/sign-in-gate.ts",
+      "sha256": "d2c65c20ab50ae41657ceecd61ded005fac29315deace9fc4d966cf56300754c",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/use-current-user.ts",
+      "destination": "apps/web/src/lib/auth/use-current-user.ts",
+      "sha256": "a0cc4bd74b6da5b346b6bafc1aec58b9bf5cc0278264379b737b79a5cff1e482",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/auth/verify.server.ts",
+      "destination": "apps/web/src/lib/auth/verify.server.ts",
+      "sha256": "42a7d5c1b17027ba004d6524a7f7bb4827b908d75ee3c3aefc940fa9c891c2ee",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/db.ts",
+      "destination": "apps/web/src/lib/db.ts",
+      "sha256": "8decf7689ff4833ad2f6f263eff9041dd2a68ce923824fa1d55ad620dea72e49",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/env.server.ts",
+      "destination": "apps/web/src/lib/env.server.ts",
+      "sha256": "9b834e0978ae76332a65a05f5bc75f80684db8c6aa638916869385c12e3343d5",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/error-component.tsx",
+      "destination": "apps/web/src/lib/error-component.tsx",
+      "sha256": "d219e4297409810a21bd382e60169faf69243d49dafd17cb0ea3a1888082b2f4",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/multiplayer/index.ts",
+      "destination": "apps/web/src/lib/multiplayer/index.ts",
+      "sha256": "bcb96816a2135e315078e2e7d0eda5522579b0caf9e768dc6c34294e4fa49137",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/multiplayer/p2p.ts",
+      "destination": "apps/web/src/lib/multiplayer/p2p.ts",
+      "sha256": "4d0d2492ac249a2cf267c8d2db7688b5a2c488ab640da7727c0f1b73c2e92f60",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/preview-embedder-origin.ts",
+      "destination": "apps/web/src/lib/preview-embedder-origin.ts",
+      "sha256": "c2d5e1acc5653ff2abc08a5eeb5feb3331f4e3d7c751ec83d60dee83cf33a6ee",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/src/lib/preview-host-bridge.ts",
+      "destination": "apps/web/src/lib/preview-host-bridge.ts",
+      "sha256": "63a91311378037680b6be414937295069ec2950520d1dc959741cf430ba6b38b",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/tsconfig.json",
+      "destination": "apps/web/tsconfig.json",
+      "sha256": "8abad87a6c62322f1f4fdff02d5f3f764ea10a98c49cfafccdc288a0dced492f",
+      "reason": "web application"
+    },
+    {
+      "source": "workspace-19/vite.config.ts",
+      "destination": "apps/web/vite.config.ts",
+      "sha256": "5451c22b17e7d8408674909b3d231f0ae4a4d017b740491ce7df008d961a7eee",
+      "reason": "web application"
+    },
+    {
+      "source": "bio-digital-reference-implementation/Makefile",
+      "destination": "services/telemetry-reference/Makefile",
+      "sha256": "aa2977fae9ad4017011116adad83311ae2b2bf7116c218d484b39d257f5398cf",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/README.md",
+      "destination": "services/telemetry-reference/README.md",
+      "sha256": "dacc096ea555f6cf1a1586594df0588cd42d153f9a9fbc31c07e5fc95b635680",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/VALIDATION.md",
+      "destination": "services/telemetry-reference/VALIDATION.md",
+      "sha256": "6bca9d4f469452e79fc931fba3127f07ac5123d0b12efa86e9c0c2f2ad49b5c5",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/backend/app/main.py",
+      "destination": "services/telemetry-reference/backend/app/main.py",
+      "sha256": "7598622d688ebac5963fc5ba22befe312ed0aa480b92ac6afd5b91416eee4065",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/backend/app/models.py",
+      "destination": "services/telemetry-reference/backend/app/models.py",
+      "sha256": "bb93132a24cd341be325678b3804ed99e432479a221cf72e797289d3ad93a669",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/backend/app/processing.py",
+      "destination": "services/telemetry-reference/backend/app/processing.py",
+      "sha256": "394a8d79ab48a529fafae16df6ad7949df9374b7e7d5361a2219c48b06ffe61a",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/backend/app/security.py",
+      "destination": "services/telemetry-reference/backend/app/security.py",
+      "sha256": "55509be291f763d83defc6426346b319cbdebdd03fd66832f3c1baa747577a24",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/backend/app/store.py",
+      "destination": "services/telemetry-reference/backend/app/store.py",
+      "sha256": "f37683e3587fd082de62a5501c6a4dab4b0f953bd74eb76b8c0058e53c1c0f9a",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/contracts/PROTOCOL.md",
+      "destination": "services/telemetry-reference/contracts/PROTOCOL.md",
+      "sha256": "6fa367fd39e67a9664bfe489bce0d8fda8337c442e782e73328018a939babcee",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/contracts/telemetry.schema.json",
+      "destination": "services/telemetry-reference/contracts/telemetry.schema.json",
+      "sha256": "b6d29ed7e0280b6979a1da227ae04afd1967e2bfd8f3d4d6033a372f4c14e75f",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/deploy/.env.example",
+      "destination": "services/telemetry-reference/deploy/.env.example",
+      "sha256": "6f6183c1592b0da2e07fca3e9e786b3bf05cd7fa925d6db5447be776598ba46a",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/deploy/Dockerfile",
+      "destination": "services/telemetry-reference/deploy/Dockerfile",
+      "sha256": "6dcc58e29bbaf2a187fbb8440c7cc5bdd920b11e0be9a192fbb33d268daba4b7",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/deploy/docker-compose.yml",
+      "destination": "services/telemetry-reference/deploy/docker-compose.yml",
+      "sha256": "441d98dbd4a87cdc5044dc9686607bbe09d5402311e233a37d0ef606cc3fed6b",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/docs/DEVELOPMENT_DEPLOYMENT_BLUEPRINT.md",
+      "destination": "services/telemetry-reference/docs/DEVELOPMENT_DEPLOYMENT_BLUEPRINT.md",
+      "sha256": "1f7b6c9150d74a42843d5cb59c6d2175a15a7de838e2c63eddf12b30eba54b76",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/docs/PRODUCTION_BLUEPRINT.md",
+      "destination": "services/telemetry-reference/docs/PRODUCTION_BLUEPRINT.md",
+      "sha256": "11ec52284aaef9e2b9411e033ad27d5670642db117693f0363e5a93141e115fd",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/firmware/esp32/README.md",
+      "destination": "services/telemetry-reference/firmware/esp32/README.md",
+      "sha256": "d6c2a47dad1e376a0d2295fc5c2f6aafe4443bc620119d41e4a665c90ba40826",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/firmware/esp32/telemetry_contract.h",
+      "destination": "services/telemetry-reference/firmware/esp32/telemetry_contract.h",
+      "sha256": "52c5394f8c8b5d3ddfff7c6ed0b35a09799ea139faf796da44e47c9fc70b262f",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/hardware/COMMISSIONING.md",
+      "destination": "services/telemetry-reference/hardware/COMMISSIONING.md",
+      "sha256": "da56e9c54beffe6603abcaa5de31c0ab9b2b443f6c1ae5458c0a68d205a2e0f2",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/requirements.txt",
+      "destination": "services/telemetry-reference/requirements.txt",
+      "sha256": "7cbfb837a0cb1da109ec73d2289b9a9b0112465e20130066d31a8abe98110c53",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/simulations/javascript/biofeedback.js",
+      "destination": "services/telemetry-reference/simulations/javascript/biofeedback.js",
+      "sha256": "c5f1b0f29b335cc479f79d254fc90046dd3feadfca348e718aaf355ffe1e99bc",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/simulations/javascript/package.json",
+      "destination": "services/telemetry-reference/simulations/javascript/package.json",
+      "sha256": "b7bb8b5732df459ad17da2be8c79964ebe5cd282fcb4697615d44302b2e4a8b8",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/simulations/javascript/telemetry_client.js",
+      "destination": "services/telemetry-reference/simulations/javascript/telemetry_client.js",
+      "sha256": "395eb546b490797d57b25f4691c522b730e2d19d05d7ce7e2bb78e7dc9e50207",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/simulations/javascript/test.js",
+      "destination": "services/telemetry-reference/simulations/javascript/test.js",
+      "sha256": "d19a4dc236c3a0b33d6d59cc0e058af50d838fb81f17523547e7c523942c8684",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/simulations/python/client.py",
+      "destination": "services/telemetry-reference/simulations/python/client.py",
+      "sha256": "ce13bfb18b76b7a0e4ef733b533ab8afb3efad4d993b07cfcb8d0fae9771c891",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/simulations/python/simulator.py",
+      "destination": "services/telemetry-reference/simulations/python/simulator.py",
+      "sha256": "a7bde1d5bdd4e62425f00f4fafb6c29ee9c470dc6ec196ac257be934f14d73e3",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "bio-digital-reference-implementation/tests/test_backend.py",
+      "destination": "services/telemetry-reference/tests/test_backend.py",
+      "sha256": "a53e0878f6ebd3c2f5948beae111bbced2caf43007d489d2ed2f4b722a5779ca",
+      "reason": "telemetry reference service"
+    },
+    {
+      "source": "accio/0_README.md",
+      "destination": "packages/embedded-audit/0_README.md",
+      "sha256": "67a1682328e173b6e008d215678f8d96802e54e87d45b585219f8a2c8388ba1b",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/7_CMakeLists.txt",
+      "destination": "packages/embedded-audit/7_CMakeLists.txt",
+      "sha256": "6dd44365edbb2854585691689d4ddae99c258d08c0bdb8a9f153bdbbc489feca",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/ACSC_ESSENTIAL_EIGHT.md",
+      "destination": "packages/embedded-audit/ACSC_ESSENTIAL_EIGHT.md",
+      "sha256": "a8f056af20deab89f25277b20edc20e9aacf99f34ff75019cbe1a4f05df7ef23",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/APP_PRIVACY_ASSESSMENT.md",
+      "destination": "packages/embedded-audit/APP_PRIVACY_ASSESSMENT.md",
+      "sha256": "19af0278a8c41fbbd7c0ea3f4525b8d7c51efbb931a6061ca82ca6dedde57155",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/ARCHITECTURE.md",
+      "destination": "packages/embedded-audit/ARCHITECTURE.md",
+      "sha256": "51ba313c23692bc4407ee88e2726f0ae9f438b3cbe6d79db15451fdc17ebe59d",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/ASSETS.md",
+      "destination": "packages/embedded-audit/ASSETS.md",
+      "sha256": "f65efda75e80305e6c8a8bfee0b879290ed09502fbb14547d2218915a759d617",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/AU_ELECTRICAL_EMC.md",
+      "destination": "packages/embedded-audit/AU_ELECTRICAL_EMC.md",
+      "sha256": "4af50692fcbd16b84950eebe5ef8656d288f5534b6b88b7a07bccb95af8b8bbf",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/BLUEPRINT_DEV_TO_PROD.md",
+      "destination": "packages/embedded-audit/BLUEPRINT_DEV_TO_PROD.md",
+      "sha256": "3eb448d64cb1c4844f9dc6afd2a9c579aa7125975a6185290ef215348b4bcd53",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/CALIBRATION.md",
+      "destination": "packages/embedded-audit/CALIBRATION.md",
+      "sha256": "22db407ffa3021218f7e9c10a9a6df7c550be21f2933002c36845b9050d41aaf",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/CHANGELOG.md",
+      "destination": "packages/embedded-audit/CHANGELOG.md",
+      "sha256": "ca08743442abcfdfbacf1bdf1d2c376c6ec8a8fe8e73f8dabc7585808645b199",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/CLAIMS_REGISTER.md",
+      "destination": "packages/embedded-audit/CLAIMS_REGISTER.md",
+      "sha256": "c2541a59622f734150e9269bff638d6d3d38bf7963808b355270c9a47c5ef4fb",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/CMakeLists.txt",
+      "destination": "packages/embedded-audit/CMakeLists.txt",
+      "sha256": "8bd36078890732c16949b3dc83f6c07e69aa699eb5bd091681b1c31e906fa035",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/CONTRIBUTING.md",
+      "destination": "packages/embedded-audit/CONTRIBUTING.md",
+      "sha256": "ed1f88c40da73a9668d954e91a6121e49f4af3cd725ff7078f0c46342a9af6dc",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/DATA_CONTRACT.md",
+      "destination": "packages/embedded-audit/DATA_CONTRACT.md",
+      "sha256": "4c85db46b2b4d5746b1af803b673b55de8bab167b0ea240c5cc3ffe128936af0",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/DEPLOYMENT.md",
+      "destination": "packages/embedded-audit/DEPLOYMENT.md",
+      "sha256": "8f976d1b95cbe82a5ab5e7924785a4cc47f71fd4face08a33188da88adfb1be7",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/DESIGN.md",
+      "destination": "packages/embedded-audit/DESIGN.md",
+      "sha256": "3d8f4373a574ed27da63771a6366e7a1121701436bcf710d0396b3d4b264c8b7",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/EVIDENCE_LABELS.md",
+      "destination": "packages/embedded-audit/EVIDENCE_LABELS.md",
+      "sha256": "8907fa8cc29e31e0b5001d9a323712abb1acdde0bb9f99a368f509a206f75774",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/LIMITATIONS.md",
+      "destination": "packages/embedded-audit/LIMITATIONS.md",
+      "sha256": "81397326ab334b4118531edae5e21218d0cb6fe349f6b282eb239c7b2f7cc7aa",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/OPERATIONS.md",
+      "destination": "packages/embedded-audit/OPERATIONS.md",
+      "sha256": "0822ccc952ae8042f5d6b65a0379a3972f9a8d1210f70f129bfd57a3b044e969",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/PINMAP.md",
+      "destination": "packages/embedded-audit/PINMAP.md",
+      "sha256": "0d79b7541df6d5eaeb92c60c04958729c95932a93c81c6abd173bdc6cb322e85",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/README.md",
+      "destination": "packages/embedded-audit/README.md",
+      "sha256": "7e4ca4c6312ed814bbb3adcfc9f8fc67bf9e320bb11a76ece986ac2923e64529",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/RISK_REGISTER.md",
+      "destination": "packages/embedded-audit/RISK_REGISTER.md",
+      "sha256": "3dc1f1ce61cb242773291fdd213efeb7f4d271bfddc51c20e1e79662821aa000",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/ROADMAP.md",
+      "destination": "packages/embedded-audit/ROADMAP.md",
+      "sha256": "6b372e249f1742510c2b757a731f6f3751a55d089d632fa4e98abf577ad7e4a7",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/SAFETY.md",
+      "destination": "packages/embedded-audit/SAFETY.md",
+      "sha256": "bbfb22ab26c396dc7fba73e5ee2a38d20e80bf23b78e28f2c6d40e3a838654d8",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/SECURITY.md",
+      "destination": "packages/embedded-audit/SECURITY.md",
+      "sha256": "13c0ac2a9f511e05434dcb75f0b2be313b2ac0a3152bd8939a1d4558844ead26",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/TESTING.md",
+      "destination": "packages/embedded-audit/TESTING.md",
+      "sha256": "dadb3bf10f9a29b9e421eb6a4c97475754c020e9fcd42bf2329986df04a15e3c",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/TGA_INTENDED_USE.md",
+      "destination": "packages/embedded-audit/TGA_INTENDED_USE.md",
+      "sha256": "79ff3ce128af6f48084fd032ffcab45b3043938dc408489f0d33bae972f14bf5",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/_README.md",
+      "destination": "packages/embedded-audit/_README.md",
+      "sha256": "2c2bf275102a40c8d402aefe7e7149941f3060f5b74ee8a4f146fc8e9a79745d",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/ae_README.md",
+      "destination": "packages/embedded-audit/ae_README.md",
+      "sha256": "445a02d79472f8ce5133649d3ef8833c99f0995fcef43851ac68a5a215ff30d2",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/c1ebb99326ec_placeholder.svg",
+      "destination": "packages/embedded-audit/c1ebb99326ec_placeholder.svg",
+      "sha256": "84e578370b86c170302f2b084ce09286d8e81bde6f0140c7bc7338b5c9d47c13",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/d2_README.md",
+      "destination": "packages/embedded-audit/d2_README.md",
+      "sha256": "8374c9c308b8a675ad71fe415e0a7d026265776080333831828987dd603ced09",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/d_CHANGELOG.md",
+      "destination": "packages/embedded-audit/d_CHANGELOG.md",
+      "sha256": "0cf28ea06fe5e8704791a3567ed25c9f0fbf1d01e58163f6fc825f163dd736b2",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/e_README.md",
+      "destination": "packages/embedded-audit/e_README.md",
+      "sha256": "bbd02f6522ecaf4989aedf617c31aff522438abc6b75e63b041efe14cbba36d1",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/f_README.md",
+      "destination": "packages/embedded-audit/f_README.md",
+      "sha256": "5f6ba7de0c560f117ad4eb3ab6edb6f90d90243db528804ba300869d087e097d",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "accio/index.html",
+      "destination": "packages/embedded-audit/index.html",
+      "sha256": "d940b94ced349b6c38868977c0598d7665c860f540b4a177c0e46e21984b767d",
+      "reason": "embedded engineering audit package"
+    },
+    {
+      "source": "Architecture_and_Data-Flow_Extraction.md",
+      "destination": "docs/research/Architecture_and_Data-Flow_Extraction.md",
+      "sha256": "47ce8c12809c8909dd75fa603c324db97566d31f863be9a0590757d4182b9434",
+      "reason": "research source"
+    },
+    {
+      "source": "Bio-Digital_Telemetry_Platform.pdf",
+      "destination": "docs/research/Bio-Digital_Telemetry_Platform.pdf",
+      "sha256": "14bca6572789399a0bf62e733d924171ec264330a1216962b98363147b767b32",
+      "reason": "research source"
+    },
+    {
+      "source": "Digital_Human_PDF_Analysis.md",
+      "destination": "docs/research/Digital_Human_PDF_Analysis.md",
+      "sha256": "1843533b4c30f9479be88cc5c6989f9ad5cd84ed68765ef26b6e6a4d4f59fa5e",
+      "reason": "research source"
+    },
+    {
+      "source": "Digital_Human_PDF_Analysis.pdf",
+      "destination": "docs/research/Digital_Human_PDF_Analysis.pdf",
+      "sha256": "957e1c996d39edf8aba9b6be9112fc991334611a7a41237b4401c11ac8057af0",
+      "reason": "research source"
+    },
+    {
+      "source": "Digital-Human-4.txt",
+      "destination": "docs/research/Digital-Human-4.txt",
+      "sha256": "8b895aff51b9c5fc174fe15cc63acba6e88b04148b051207cb201d18fc20445f",
+      "reason": "research source"
+    },
+    {
+      "source": "ESP32–FastAPI_Contract_and_NeuroScan_Implementatio.md",
+      "destination": "docs/research/ESP32–FastAPI_Contract_and_NeuroScan_Implementatio.md",
+      "sha256": "9371456d88c5c707f0610328839c13de234177f91fa1bebbc725b96848a5c9ad",
+      "reason": "research source"
+    },
+    {
+      "source": "Image_extraction_findings.md",
+      "destination": "docs/research/Image_extraction_findings.md",
+      "sha256": "f30a30abc5e36bb24653f0eb8b78d86070eb26af6b141f4d9954c9d97922c414",
+      "reason": "research source"
+    },
+    {
+      "source": "Sovereign_Extraction_Report_—_Bio-Digital_Image_Se.md",
+      "destination": "docs/research/Sovereign_Extraction_Report_—_Bio-Digital_Image_Se.md",
+      "sha256": "4ce0f907f164f964e13bff7ecfd0c24cb8e21bb67359bbdd0577248e11661e30",
+      "reason": "research source"
+    },
+    {
+      "source": "⚡️Digital-Human (4).pdf",
+      "destination": "docs/research/⚡️Digital-Human (4).pdf",
+      "sha256": "92fce992234215dfaa1477ad5a9f2136598d4625f8ccf8c49c3079a58627bf50",
+      "reason": "research source"
+    },
+    {
+      "source": "bio-digital-documentation-bundle/contact_sheet.jpg",
+      "destination": "docs/extraction/documentation-bundle/contact_sheet.jpg",
+      "sha256": "36f4d5daa0c7f9153b8716dd578f98df80c1e1938ebfc52c708219fae386a249",
+      "reason": "documentation extraction bundle"
+    },
+    {
+      "source": "bio-digital-documentation-bundle/extract_images.py",
+      "destination": "docs/extraction/documentation-bundle/extract_images.py",
+      "sha256": "12183236f3c13afa20ea5ab53c69aaa68057b9c8fd7ccb4d2b2aa2a4cfa4fcd3",
+      "reason": "documentation extraction bundle"
+    },
+    {
+      "source": "bio-digital-documentation-bundle/inventory.json",
+      "destination": "docs/extraction/documentation-bundle/inventory.json",
+      "sha256": "2aefb9de4f69f288e0eb9a6be56d0e5bdd13ac30dfd012e55ad93d61fd9752c8",
+      "reason": "documentation extraction bundle"
+    },
+    {
+      "source": "bio-digital-documentation-bundle/ocr_run.txt",
+      "destination": "docs/extraction/documentation-bundle/ocr_run.txt",
+      "sha256": "ace9a10858b3d96eb8bd4afbe3051eab061dc1665129ebfac4856975ac98d733",
+      "reason": "documentation extraction bundle"
+    },
+    {
+      "source": "digital-human-analysis-bundle/pdf/pdf_section_map.json",
+      "destination": "docs/extraction/digital-human-analysis/pdf/pdf_section_map.json",
+      "sha256": "541eae1463c36b9a05796f43df2806bb3c34cf9de9e0a01bb493c42ef8830eaf",
+      "reason": "digital-human analysis bundle"
+    },
+    {
+      "source": "digital-human-analysis-bundle/pdf/pdfimages_list.txt",
+      "destination": "docs/extraction/digital-human-analysis/pdf/pdfimages_list.txt",
+      "sha256": "0fabc764e123f7f3acd3eaa47311e1c50317f8bbb5b50878e699f21534352e8e",
+      "reason": "digital-human analysis bundle"
+    },
+    {
+      "source": "bio-digital/image_editor_4fc2e1b6-40d6-4743-8bab-441f4ce8ecac.jpg",
+      "destination": "assets/visuals/image_editor_4fc2e1b6-40d6-4743-8bab-441f4ce8ecac.jpg",
+      "sha256": "e989afa3078a53c6163b491d9b2a79e52449bf1d72e5e75a4e5ca51a5948a321",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_editor_5a1c3186-8d2a-4bbb-abe7-20c168a22d74.jpg",
+      "destination": "assets/visuals/image_editor_5a1c3186-8d2a-4bbb-abe7-20c168a22d74.jpg",
+      "sha256": "1adbd29a0c828f174f1ca3161a8a7754097a9d75a558c61e2a15351f3dc5a239",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_editor_6280f0f6-1cb6-46ba-a2d2-5f614166379a.jpg",
+      "destination": "assets/visuals/image_editor_6280f0f6-1cb6-46ba-a2d2-5f614166379a.jpg",
+      "sha256": "4942909787d4c4d7153c05f319136c05f4a4a59b3fe5894d33cc552345e8b519",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_editor_6d274a1d-3e7e-410b-b82f-3d7a4a7fa89e.jpg",
+      "destination": "assets/visuals/image_editor_6d274a1d-3e7e-410b-b82f-3d7a4a7fa89e.jpg",
+      "sha256": "f9304cd63576844e4dd541716f690a6809b73f09f016debb249ebf66c2c04ef8",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_editor_707342f5-1e70-48bb-97f4-8f7277ac018c (1).jpg",
+      "destination": "assets/visuals/image_editor_707342f5-1e70-48bb-97f4-8f7277ac018c (1).jpg",
+      "sha256": "524309a27943b06b3d0077b0524ebb6fd9161e04299cbe91d209cdf7f149257e",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_0ab070ee-651d-4be2-9406-6989b3c48bff.jpg",
+      "destination": "assets/visuals/image_generator_0ab070ee-651d-4be2-9406-6989b3c48bff.jpg",
+      "sha256": "12d1abb11c0c1347b135f19f6c6b1cdc158db9d2a26428776699310bf1e656af",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_13849a1e-8df7-48fc-a890-e997bf325518.jpg",
+      "destination": "assets/visuals/image_generator_13849a1e-8df7-48fc-a890-e997bf325518.jpg",
+      "sha256": "a7f2473b20c0faac2fe10434db9c0cc7c1d0edaceaa361e990434c03d31f3e09",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_1bd7486f-b9a5-4402-ac55-8e7dc9731662.jpg",
+      "destination": "assets/visuals/image_generator_1bd7486f-b9a5-4402-ac55-8e7dc9731662.jpg",
+      "sha256": "8a2dba668b56d6e9df20997a32afce9ebbee3a9d7c58252028b1de1f60ad393d",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_228e67a6-ab69-4c35-ba75-d20b089a9e58.jpg",
+      "destination": "assets/visuals/image_generator_228e67a6-ab69-4c35-ba75-d20b089a9e58.jpg",
+      "sha256": "52581af3e59574cd269bb0ec88b303388aeb2c3dae029149f616ec15a8922bfc",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_2a8f8cf3-4c72-4b81-8686-38bbfbcae085 (1).jpg",
+      "destination": "assets/visuals/image_generator_2a8f8cf3-4c72-4b81-8686-38bbfbcae085 (1).jpg",
+      "sha256": "a642e7353da4421607f2180ed431aa3ccef44a67d81e588558e2e676e0b8a577",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_47964fe7-75e3-421b-bc9e-ebedb1dc960b.jpg",
+      "destination": "assets/visuals/image_generator_47964fe7-75e3-421b-bc9e-ebedb1dc960b.jpg",
+      "sha256": "4caed46d44277343c99670da6b9b035dc7504cfdabc16da5c90439d9ad5da963",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_5511e5a5-a9e8-4333-857d-d552fce07cbe.jpg",
+      "destination": "assets/visuals/image_generator_5511e5a5-a9e8-4333-857d-d552fce07cbe.jpg",
+      "sha256": "294e4d71e545f658afddba4a8b1fe9215d48dae32d723fb55733b1872ffd8df2",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_5d7062b6-16f2-414b-972d-dd1e2213a99d.jpg",
+      "destination": "assets/visuals/image_generator_5d7062b6-16f2-414b-972d-dd1e2213a99d.jpg",
+      "sha256": "dd02dac7bbddfa7d379a9aa3c4cebf74bd9bba9de004310edd46dfbc002c81ed",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_60f39bd1-523a-463a-bec0-fa41dbd9acba.jpg",
+      "destination": "assets/visuals/image_generator_60f39bd1-523a-463a-bec0-fa41dbd9acba.jpg",
+      "sha256": "88340195bd45f8400f2982e96242ee0748329a73729af5742da472bd37e1f6fb",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_73c044dc-9baf-463c-a5cf-19be63367926.jpg",
+      "destination": "assets/visuals/image_generator_73c044dc-9baf-463c-a5cf-19be63367926.jpg",
+      "sha256": "8840546e7e4f4d07baa65f487cf01753bbd86eaa6f51a5dd23f537f50c1503c6",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_7aaff376-9535-42fb-be4d-c2d69f9db03e.jpg",
+      "destination": "assets/visuals/image_generator_7aaff376-9535-42fb-be4d-c2d69f9db03e.jpg",
+      "sha256": "097a8b3f9cfdc9e809d381411791bc62f1be8e4d918c40642ad1b23b097a4174",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_c02cad3c-1aff-4ad6-bd7b-dce0464d72e9.jpg",
+      "destination": "assets/visuals/image_generator_c02cad3c-1aff-4ad6-bd7b-dce0464d72e9.jpg",
+      "sha256": "1c4d666d9c7ed887b2e7738ceec12ba138cd0f07db9cc67d55241aa4776174f8",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_c1e30123-c084-4b4c-b510-9a1812c15be7.jpg",
+      "destination": "assets/visuals/image_generator_c1e30123-c084-4b4c-b510-9a1812c15be7.jpg",
+      "sha256": "3d4d1aee91719c5b33839cdc852920b8f729eac1342eeabf2795dcd90847da64",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_cfbfc3e1-b872-4cf0-9dd1-87fc7e6b11b8.jpg",
+      "destination": "assets/visuals/image_generator_cfbfc3e1-b872-4cf0-9dd1-87fc7e6b11b8.jpg",
+      "sha256": "8fa79177e525f8a5235dfb2129a61f0b8bf44069fec6f7d8b6afa7ca0668c46a",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_d4ad583e-4e43-4712-862b-7cb01cd310f1.jpg",
+      "destination": "assets/visuals/image_generator_d4ad583e-4e43-4712-862b-7cb01cd310f1.jpg",
+      "sha256": "b606d95a1f86f58b635469935109fab9637652660584b375e1e6950c1d101e2d",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_db72661a-87a6-4b7c-810a-be37657d3ec7.jpg",
+      "destination": "assets/visuals/image_generator_db72661a-87a6-4b7c-810a-be37657d3ec7.jpg",
+      "sha256": "dccabed7e8b0fcb59b10ec854edf27ef5a8f0254d526d2dfb4c6e7972d5840a3",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_e38dcb80-83d6-45cc-8290-8e407121c24e.jpg",
+      "destination": "assets/visuals/image_generator_e38dcb80-83d6-45cc-8290-8e407121c24e.jpg",
+      "sha256": "e026f1d4e79504e1e243cad7835fe2208f3c1162c7d704c373850e3f4c0d2b95",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_f1bc70c2-5306-451a-8ed2-ad4a4f710476.jpg",
+      "destination": "assets/visuals/image_generator_f1bc70c2-5306-451a-8ed2-ad4a4f710476.jpg",
+      "sha256": "ce58bc7d07bed2206c383186c94d9dc397f3b00a12fde9ec91a9b117972f3b60",
+      "reason": "visual asset"
+    },
+    {
+      "source": "bio-digital/image_generator_f46b0727-a005-4430-a7af-7359e2f60c14.jpg",
+      "destination": "assets/visuals/image_generator_f46b0727-a005-4430-a7af-7359e2f60c14.jpg",
+      "sha256": "7922f6460b007365e0f29eeaf3dc799148992e43215b0da723f2d49ef169e222",
+      "reason": "visual asset"
+    },
+    {
+      "source": "analyze_pdf.py",
+      "destination": "tools/extraction/analyze_pdf.py",
+      "sha256": "b8a16d29d4cf74a153afb8f206b5a50fe485f36a1bb7e44c3d42246ddb1e4acf",
+      "reason": "standalone extraction utility/metadata"
+    },
+    {
+      "source": "SKILL (15).md",
+      "destination": "docs/legacy-notes/SKILL (15).md",
+      "sha256": "ee8e68e20ec3a6871d60eebe0ff8780ab9c0aa0098fbef6747317440d99a4ffc",
+      "reason": "legacy source note"
+    },
+    {
+      "source": "SKILL (16).md",
+      "destination": "docs/legacy-notes/SKILL (16).md",
+      "sha256": "1ed414ba7bead8a9f29d70e825a3ad1b689f7f429e75c8f3f42aceaf1d572ddb",
+      "reason": "legacy source note"
+    },
+    {
+      "source": "SKILL (17).md",
+      "destination": "docs/legacy-notes/SKILL (17).md",
+      "sha256": "6dddea5cebd009cdf8aa265fb8039ddda9eb2c71322233a4afe7618f2d504461",
+      "reason": "legacy source note"
+    },
+    {
+      "source": "SKILL (18).md",
+      "destination": "docs/legacy-notes/SKILL (18).md",
+      "sha256": "ca51fbc1019dfa85082cd42616ca24b59b0b154813221cee1480bf7691c1ed03",
+      "reason": "legacy source note"
+    },
+    {
+      "source": "a_TESTING.md",
+      "destination": "docs/legacy-notes/a_TESTING.md",
+      "sha256": "d7fa4f52d06dce1693ac4562463746e471db0f9b011289a5cc673dfc3e4b190d",
+      "reason": "legacy source note"
+    },
+    {
+      "source": "/home/ubuntu/upload/pasted_content_2.txt",
+      "destination": "docs/sovereign-hdi/BLUEPRINT_DEV_TO_PROD.md",
+      "sha256": "e0df352cc492767ed32856941fceefc9ccb4c796ebbca1b86e76ffa2051d5bf2",
+      "reason": "pasted deployment blueprint"
+    },
+    {
+      "source": "/home/ubuntu/upload/pasted_content.txt",
+      "destination": "docs/sovereign-hdi/PROMOTION_GATE_REPORT.md",
+      "sha256": "af71825ebfa1b213d35af89a59d1b8ca447dae59d14b636adee806b885c86d35",
+      "reason": "pasted promotion gate report"
+    },
+    {
+      "source": "extracted from pasted_content.txt widget SVG",
+      "destination": "docs/sovereign-hdi/assets/promotion-gate-status.svg",
+      "sha256": "f90a9555ad3ab21553bc05851946da1e9146a87356e00d2e85289fae3fb3e34b",
+      "reason": "extracted visual asset"
+    },
+    {
+      "source": "generated update documentation",
+      "destination": "docs/sovereign-hdi/README.md",
+      "sha256": "d81ebb1b25e212f0a0bfb84dd9b612ab61075d0c9530620c78ddffe5ac4dc153",
+      "reason": "update documentation"
+    }
+  ]
+}

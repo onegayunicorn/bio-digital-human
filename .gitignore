@@ -1,0 +1,13 @@
+# dependencies and generated output
+node_modules/
+dist/
+build/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.manus-logs/
+.project-config.json
+.DS_Store

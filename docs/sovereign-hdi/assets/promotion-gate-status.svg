@@ -1,0 +1,66 @@
+<svg width="100%" viewBox="0 0 680 380" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Promotion gate status by environment</title>
+  <desc>Matrix of six automatable promotion gates against the dev, test and prod environments. Dev passes its single unit gate. Test passes all three of its gates. Prod passes four of five and fails on artefact signing because no signing key is configured.</desc>
+
+  <text x="40" y="56" font-size="13" font-weight="500" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">Automatable gate</text>
+  <text x="420" y="56" font-size="13" font-weight="500" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">dev</text>
+  <text x="512" y="56" font-size="13" font-weight="500" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">test</text>
+  <text x="604" y="56" font-size="13" font-weight="500" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">prod</text>
+
+  <line x1="40" y1="72" x2="640" y2="72" style="stroke:var(--color-border-secondary, #C9CDD2)" stroke-width="1"/>
+
+  <text x="40" y="96" font-size="13" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">Python suite (unit)</text>
+  <rect x="408" y="84" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="420" y="96" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+  <rect x="500" y="84" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="512" y="96" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+  <rect x="592" y="84" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="604" y="96" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+
+  <text x="40" y="130" font-size="13" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">Safety · contract · fuzz</text>
+  <text x="420" y="130" font-size="13" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">–</text>
+  <rect x="500" y="118" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="512" y="130" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+  <rect x="592" y="118" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="604" y="130" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+
+  <text x="40" y="164" font-size="13" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">Numerical stability</text>
+  <text x="420" y="164" font-size="13" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">–</text>
+  <rect x="500" y="152" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="512" y="164" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+  <rect x="592" y="152" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="604" y="164" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+
+  <text x="40" y="198" font-size="13" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">Frame contract (native C)</text>
+  <text x="420" y="198" font-size="13" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">–</text>
+  <rect x="500" y="186" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="512" y="198" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+  <rect x="592" y="186" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="604" y="198" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+
+  <text x="40" y="232" font-size="13" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">Evidence manifest</text>
+  <text x="420" y="232" font-size="13" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">–</text>
+  <text x="512" y="232" font-size="13" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">–</text>
+  <rect x="592" y="220" width="24" height="24" rx="6" style="fill:var(--color-status-success-bg, #E7F3EA);stroke:var(--color-status-success-border, #4C8A5E)" stroke-width="0.5"/>
+  <text x="604" y="232" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+
+  <text x="40" y="266" font-size="13" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">Artefact signing</text>
+  <text x="420" y="266" font-size="13" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">–</text>
+  <text x="512" y="266" font-size="13" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">–</text>
+  <rect x="592" y="254" width="24" height="24" rx="6" style="fill:var(--color-status-error-bg, #FBE9E7);stroke:var(--color-status-error-border, #A8453A)" stroke-width="0.5"/>
+  <text x="604" y="266" font-size="14" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-error-text, #8F382D)">✕</text>
+
+  <line x1="40" y1="284" x2="640" y2="284" style="stroke:var(--color-border-secondary, #C9CDD2)" stroke-width="1"/>
+
+  <text x="40" y="306" font-size="13" font-weight="500" dominant-baseline="central" style="fill:var(--color-text-primary, #1F2933)">Verdict</text>
+  <text x="420" y="306" font-size="13" font-weight="500" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">1/1 PASS</text>
+  <text x="512" y="306" font-size="13" font-weight="500" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">3/3 PASS</text>
+  <text x="604" y="306" font-size="13" font-weight="500" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-status-error-text, #8F382D)">4/5 FAIL</text>
+
+  <text x="40" y="328" font-size="12" dominant-baseline="central" style="fill:var(--color-status-success-text, #2F6B44)">✓</text>
+  <text x="58" y="328" font-size="12" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">satisfied</text>
+  <text x="150" y="328" font-size="12" dominant-baseline="central" style="fill:var(--color-status-error-text, #8F382D)">✕</text>
+  <text x="168" y="328" font-size="12" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">unsatisfied</text>
+  <text x="272" y="328" font-size="12" text-anchor="middle" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">–</text>
+  <text x="290" y="328" font-size="12" dominant-baseline="central" style="fill:var(--color-text-tertiary, #8A9199)">not in this profile</text>
+</svg>

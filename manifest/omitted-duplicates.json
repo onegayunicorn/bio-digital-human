@@ -1,0 +1,140 @@
+[
+  {
+    "source": "bio-digital-reference-implementation/backend/__init__.py",
+    "duplicate_of": "apps/web/screenshots/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "bio-digital-reference-implementation/backend/app/__init__.py",
+    "duplicate_of": "apps/web/screenshots/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "Bio-Digital_Telemetry_Platform.md",
+    "duplicate_of": "services/telemetry-reference/docs/DEVELOPMENT_DEPLOYMENT_BLUEPRINT.md",
+    "sha256": "1f7b6c9150d74a42843d5cb59c6d2175a15a7de838e2c63eddf12b30eba54b76",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "Bio-Digital_Telemetry_Reference_Blueprint.md",
+    "duplicate_of": "services/telemetry-reference/docs/PRODUCTION_BLUEPRINT.md",
+    "sha256": "11ec52284aaef9e2b9411e033ad27d5670642db117693f0363e5a93141e115fd",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "Telemetry_Protocol_v1.md",
+    "duplicate_of": "services/telemetry-reference/contracts/PROTOCOL.md",
+    "sha256": "6fa367fd39e67a9664bfe489bce0d8fda8337c442e782e73328018a939babcee",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "Validation_Record.md",
+    "duplicate_of": "services/telemetry-reference/VALIDATION.md",
+    "sha256": "6bca9d4f469452e79fc931fba3127f07ac5123d0b12efa86e9c0c2f2ad49b5c5",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "bio-digital-documentation-bundle/SOVEREIGN_EXTRACTION_REPORT.md",
+    "duplicate_of": "docs/research/Sovereign_Extraction_Report_—_Bio-Digital_Image_Se.md",
+    "sha256": "4ce0f907f164f964e13bff7ecfd0c24cb8e21bb67359bbdd0577248e11661e30",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "bio-digital-documentation-bundle/extraction_findings.md",
+    "duplicate_of": "docs/research/Image_extraction_findings.md",
+    "sha256": "f30a30abc5e36bb24653f0eb8b78d86070eb26af6b141f4d9954c9d97922c414",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "digital-human-analysis-bundle/ARCHITECTURE_DATA_FLOW_EXTRACTION.md",
+    "duplicate_of": "docs/research/Architecture_and_Data-Flow_Extraction.md",
+    "sha256": "47ce8c12809c8909dd75fa603c324db97566d31f863be9a0590757d4182b9434",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "digital-human-analysis-bundle/DIGITAL_HUMAN_PDF_ANALYSIS.md",
+    "duplicate_of": "docs/research/Digital_Human_PDF_Analysis.md",
+    "sha256": "1843533b4c30f9479be88cc5c6989f9ad5cd84ed68765ef26b6e6a4d4f59fa5e",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "digital-human-analysis-bundle/SOVEREIGN_EXTRACTION_REPORT.md",
+    "duplicate_of": "docs/research/Sovereign_Extraction_Report_—_Bio-Digital_Image_Se.md",
+    "sha256": "4ce0f907f164f964e13bff7ecfd0c24cb8e21bb67359bbdd0577248e11661e30",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "digital-human-analysis-bundle/pdf/Digital-Human-4.txt",
+    "duplicate_of": "docs/research/Digital-Human-4.txt",
+    "sha256": "8b895aff51b9c5fc174fe15cc63acba6e88b04148b051207cb201d18fc20445f",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "bio-digital-engineering-audit-bundle/ARCHITECTURE_DATA_FLOW_EXTRACTION.md",
+    "duplicate_of": "docs/research/Architecture_and_Data-Flow_Extraction.md",
+    "sha256": "47ce8c12809c8909dd75fa603c324db97566d31f863be9a0590757d4182b9434",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "bio-digital-engineering-audit-bundle/DIGITAL_HUMAN_PDF_ANALYSIS.md",
+    "duplicate_of": "docs/research/Digital_Human_PDF_Analysis.md",
+    "sha256": "1843533b4c30f9479be88cc5c6989f9ad5cd84ed68765ef26b6e6a4d4f59fa5e",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "bio-digital-engineering-audit-bundle/ESP32_FASTAPI_NEUROSCAN_AUDIT.md",
+    "duplicate_of": "docs/research/ESP32–FastAPI_Contract_and_NeuroScan_Implementatio.md",
+    "sha256": "9371456d88c5c707f0610328839c13de234177f91fa1bebbc725b96848a5c9ad",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "bio-digital-engineering-audit-bundle/SOVEREIGN_EXTRACTION_REPORT.md",
+    "duplicate_of": "docs/research/Sovereign_Extraction_Report_—_Bio-Digital_Image_Se.md",
+    "sha256": "4ce0f907f164f964e13bff7ecfd0c24cb8e21bb67359bbdd0577248e11661e30",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "bio-digital-engineering-audit-bundle/pdf/Digital-Human-4.txt",
+    "duplicate_of": "docs/research/Digital-Human-4.txt",
+    "sha256": "8b895aff51b9c5fc174fe15cc63acba6e88b04148b051207cb201d18fc20445f",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "extract_images.py",
+    "duplicate_of": "docs/extraction/documentation-bundle/extract_images.py",
+    "sha256": "12183236f3c13afa20ea5ab53c69aaa68057b9c8fd7ccb4d2b2aa2a4cfa4fcd3",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "inventory.json",
+    "duplicate_of": "docs/extraction/documentation-bundle/inventory.json",
+    "sha256": "2aefb9de4f69f288e0eb9a6be56d0e5bdd13ac30dfd012e55ad93d61fd9752c8",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "telemetry.json",
+    "duplicate_of": "services/telemetry-reference/contracts/telemetry.schema.json",
+    "sha256": "b6d29ed7e0280b6979a1da227ae04afd1967e2bfd8f3d4d6033a372f4c14e75f",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "telemetry (1).json",
+    "duplicate_of": "services/telemetry-reference/contracts/telemetry.schema.json",
+    "sha256": "b6d29ed7e0280b6979a1da227ae04afd1967e2bfd8f3d4d6033a372f4c14e75f",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "Bio-Digital_Telemetry_Reference_Implementation.md",
+    "duplicate_of": "services/telemetry-reference/README.md",
+    "sha256": "dacc096ea555f6cf1a1586594df0588cd42d153f9a9fbc31c07e5fc95b635680",
+    "reason": "exact duplicate"
+  },
+  {
+    "source": "COMMISSIONING.md",
+    "duplicate_of": "services/telemetry-reference/hardware/COMMISSIONING.md",
+    "sha256": "da56e9c54beffe6603abcaa5de31c0ab9b2b443f6c1ae5458c0a68d205a2e0f2",
+    "reason": "exact duplicate"
+  }
+]
