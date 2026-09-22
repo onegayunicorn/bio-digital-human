@@ -11,6 +11,10 @@ Private consolidated repository for the Bio-Digital platform and NeuroScan Inter
 - `assets/` — deduplicated source visual assets.
 - `manifest/` — source provenance, inventory, and duplicate-removal records.
 
+## Documentation
+
+Read [`docs/MANUAL.md`](docs/MANUAL.md) for the complete operator, developer, deployment, testing, PWA, security, safety, troubleshooting, and release manual.
+
 ## NeuroScan dashboard
 
 The dashboard uses the supplied neural reference imagery through WebDev-managed storage paths, includes Activity, Networks, Genetics, Analytics, Reports, and Settings modules, and provides PWA manifest, icon, offline shell, and install-prompt support.
